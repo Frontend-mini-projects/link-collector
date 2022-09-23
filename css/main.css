@@ -1,0 +1,33 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+#successalert {
+    display: none;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}
+.container{
+    /* border: 2px solid red; */
+    margin-top: 33px;
+    /* padding: 13px; */
+    text-align: center;
+    letter-spacing: 2px;
+    width: 80%;
+
+
+    border-radius: 9px;
+    background: #e6e6e6;
+    box-shadow:  5px 5px 13px #a7a89c,
+             -5px -5px 13px #dbd8d8;
+}
+
+li{
+    height: 7vh;
+    /* border: 2px solid blue; */
+    padding-top: 1.5vh;
+}
+#linkbtn{
+    border: 1px solid ;
+} 
